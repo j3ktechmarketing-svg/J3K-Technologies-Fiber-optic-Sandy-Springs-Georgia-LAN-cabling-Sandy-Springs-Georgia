@@ -68,7 +68,7 @@ Why businesses trust us:
 - Focus on minimizing disruption during installation  
 - Long-term reliability and future-proof designs  
 
-We don’t just install cables—we build systems that empower businesses to grow and thrive.  
+We don’t just install cables-we build systems that empower businesses to grow and thrive.  
 
 ---
 
@@ -76,7 +76,7 @@ We don’t just install cables—we build systems that empower businesses to gro
 
 If your company is based in Sandy Springs and looking for expert **structured cabling**, high-performance **fiber optic cabling**, or reliable **LAN cabling**, J3K Technologies is your trusted partner.  
 
-We help businesses design and implement networks that are fast, secure, and built for the future. Don’t let outdated cabling limit your potential—invest in a system that supports growth and efficiency.  
+We help businesses design and implement networks that are fast, secure, and built for the future. Don’t let outdated cabling limit your potential-invest in a system that supports growth and efficiency.  
 
 
 ---
